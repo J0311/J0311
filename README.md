@@ -7,7 +7,7 @@
 ##  👯 I’m looking to collaborate on open source projects that can help me grow. 
 ## ⚡Iron sharpens iron!
 
-## ✏️ Currently Leanring
+## ✏️ Currently Learning
 🎨 **NextJS and AngularCLI** - To build projects/my own blog
 
 🖥️ **Java** - <I'll always be *learning* Java>
