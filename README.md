@@ -1,4 +1,4 @@
-### Hi, I'm Joseph! 👋
+# Hi, I'm Joseph! 👋
 
 ## 💬 I am a professional Software Engineer specializing in Java. 
 
