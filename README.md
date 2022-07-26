@@ -7,6 +7,13 @@
 ##  👯 I’m looking to collaborate on open source projects that can help me grow. 
 ## ⚡Iron sharpens iron!
 
+## ✏️ Currently Leanring
+🎨 **NextJS and AngularCLI** - To build projects/my own blog
+
+🖥️ **Java** - <I'll always be *learning* Java>
+
+---
+
 <!--
 **J0311/J0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
