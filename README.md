@@ -16,7 +16,7 @@
 🖥️ **Java** - <I'll always be *learning* Java>
 
 # 🥳 Let's Get Social
-🌐 Follow me around the web!
+## 🌐 Follow me around the web!
 
 <div align="center" >  
 	<a href="https://www.linkedin.com/in/josephwalker3" target="_blank">
