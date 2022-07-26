@@ -12,6 +12,19 @@
 
 🖥️ **Java** - <I'll always be *learning* Java>
 
+# 🥳 Let's Get Social
+🌐 Follow me around the web!
+
+<div align="center" >  
+	<a href="https://www.linkedin.com/in/josephwalker3" target="_blank">
+		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/linkedin.png" alt="linkedin icon" height="45px" />
+	</a>
+	<a href="https://twitter.com/_joseph_creator" target="_blank">
+		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/twitter.png" alt="twitter icon" height="45px" />
+	</a>
+</div>
+
+
 ---
 
 <!--
