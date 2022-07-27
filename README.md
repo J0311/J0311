@@ -8,7 +8,7 @@
 ##  💥I am a Marine and Army veteran with a strong background in sales and client relationships. 
 ## I enjoy development because of the satisfaction received overcoming challenges. 
 
-##  👯 I’m looking to collaborate on open source projects that can help me grow. 
+##  📊 I’m looking to collaborate on open source projects that can help me grow. 
 ## ⚡Iron sharpens iron!
 
 ## ✏️ Currently Learning:
