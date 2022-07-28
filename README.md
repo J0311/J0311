@@ -28,9 +28,6 @@
 	<a href="https://twitter.com/_joseph_creator" target="_blank">
 		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/twitter.png" alt="twitter icon" height="45px" />
 	</a>
-	<a href="https://twitter.com/joewhocodes" target="_blank">
-		<img src="https://youtube.com/channel/UC52BtP4lDTpoRslzcmwztpA/profile/readme-assets/blob/main/profile_images/youtube.png" alt="youtube icon" height="45px" />
-	</a>
 </div>
 
 
