@@ -22,11 +22,9 @@
 ## 🌐 Follow me around the web!
 
 <div align="center" >  
-	<a href="https://www.linkedin.com/in/josephwalker3" target="_blank">
-		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/linkedin.png" alt="linkedin icon" height="45px" />
-	</a>
-	<a href="https://twitter.com/_joseph_creator" target="_blank">
-		<img src="https://github.com/joewhocodes/readme-assets/blob/main/profile_images/twitter.png" alt="twitter icon" height="45px" />
+<a href="https://www.linkedin.com/in/josephwalker3/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+<a href="https://twitter.com/_joseph_creators"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.youtube.com/channel/UC52BtP4lDTpoRslzcmwztpA"><img src="https://img.icons8.com/color/48/000000/youtube-squared.png"/></a>
 	</a>
 </div>
 
