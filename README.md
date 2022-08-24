@@ -14,9 +14,9 @@
 ## ✏️ Currently Learning:
 🎨 **Angular CLI** - To build more fullstack projects
 
-🌱 **SpringBoot** - Building my skills Spring Framework with a focus on 🔐 Spring Security 
+🌱 **SpringBoot** - Building my skills in Spring Framework with a focus on 🔐 Spring Security 
 
-🖥️ **Java** - <I'll always be *learning* Java> ☕
+🖥️ **Software Architecture** - I'll always be *learning* ... especially in Java ☕
 
 # 🥳 Let's Get Social
 ## 🌐 Follow me around the web!
