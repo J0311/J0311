@@ -12,9 +12,9 @@
 ## ⚡Iron sharpens iron!
 
 ## ✏️ Currently Learning:
-🎨 **NextJS and AngularCLI** - To build projects/my own blog
+🎨 **Angular CLI** - To build more fullstack projects
 
-🌱 **SpringBoot** - Building my skills with Java Microservices
+🌱 **SpringBoot** - Building my skills Spring Framework with a focus on 🔐 Spring Security 
 
 🖥️ **Java** - <I'll always be *learning* Java> ☕
 
