@@ -12,9 +12,9 @@
 ## ⚡Iron sharpens iron!
 
 ## ✏️ Currently Learning:
-🎨 **Angular CLI** - To build more fullstack projects
+🎨 **Angular CLI & Node.js** - To build more fullstack projects
 
-🌱 **SpringBoot** - Building my skills in Spring Framework with a focus on 🔐 Spring Security 
+🌱 **Spring Boot** - Building my skills in Spring Framework with a focus on 🔐 Spring Security 
 
 🖥️ **Software Architecture** - I'll always be *learning* ... especially in Java ☕
 
