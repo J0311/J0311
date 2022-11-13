@@ -34,6 +34,10 @@
 
 ---
 
+***"Premature optimization is the root of all evil in programming."*** - Donald Knuth
+
+---
+
 <!--
 **J0311/J0311** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
