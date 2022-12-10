@@ -3,7 +3,7 @@
 
 # Hi, I'm Joseph! 👋
 
-# 💬 Professional Software Engineer specializing in Java. ☕ 
+# 💬 Professional Software Engineer specializing in Java ☕ 
 
 ##  💥I am a Marine and Army veteran with a strong background in sales and client relationships. 
 ##  💡I enjoy development because of the satisfaction received overcoming challenges. 
