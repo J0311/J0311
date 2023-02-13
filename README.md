@@ -24,7 +24,7 @@
 <div align="center" >  
 <a href="https://www.linkedin.com/in/josephwalker3/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://twitter.com/_joseph_creator"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="https://www.instagram.com/joseph__the__creator/"><img src="[https://icons8.com/icon/32323/instagram](https://icons8.com/icon/Xy10Jcu1L2Su/instagram)"/></a>
+<a href="https://www.instagram.com/joseph__the__creator/"><img src="[[https://icons8.com/icon/32323/instagram](https://icons8.com/icon/Xy10Jcu1L2Su/instagram)](https://icons8.com/icon/Plswr633TJUP/instagram)"/></a>
 <a href="https://www.youtube.com/channel/UC52BtP4lDTpoRslzcmwztpA"><img src="https://img.icons8.com/color/48/000000/youtube-squared.png"/></a>
 	</a>
 </div>
