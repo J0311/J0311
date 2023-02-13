@@ -24,7 +24,7 @@
 <div align="center" >  
 <a href="https://www.linkedin.com/in/josephwalker3/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 <a href="https://twitter.com/_joseph_creator"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="https://www.instagram.com/joseph__the__creator/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danita.codes" height="40" width="40"/></a>
+<a href="https://www.instagram.com/joseph__the__creator/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danita.codes" height="45" width="40"/></a>
 <a href="https://www.youtube.com/channel/UC52BtP4lDTpoRslzcmwztpA"><img src="https://img.icons8.com/color/48/000000/youtube-squared.png"/></a>
 	</a>
 </div>
